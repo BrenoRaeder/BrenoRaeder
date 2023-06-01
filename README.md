@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center"> 
+   <h1>Olá, me chamo Breno.</h1>
+   <p>Atualmente sou estudante de TI pela Faeterj-Petrópolis e também estou no programa de Residência de Software do SerraTec.</p>
+</div>
 
 ##
 
@@ -9,6 +12,3 @@
 </div>
   
 ##
-  
-<!--![Snake animation ](https://github.com/BrenoRaeder/BrenoRaeder/blob/output/dark.svg)-->
-
